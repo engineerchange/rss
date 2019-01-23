@@ -10,6 +10,9 @@ Github
 - use ".atom" after github account to include as appropriate Feedly RSS feed (e.g., [https://github.com/engineerchange.atom](https://github.com/engineerchange.atom))
 - follow single repo commits by doing something like: [https://github.com/engineerchange/rss/commits/master.atom](https://github.com/engineerchange/rss/commits/master.atom)
 
+[Google Alerts](https://www.google.com/alerts)
+- Google Alerts allow you to export as a digest to your e-mail or as an RSS feed.
+
 [Feed 43](https://feed43.com)
 - use for websites that don't have clear RSS
 
