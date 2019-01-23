@@ -7,7 +7,7 @@ recommended rss feeds and some tips/tricks
 
 # Tips and Tricks
 Github
-- use ".atom" after github account to include as appropriate Feedly RSS feed (e.g., https://www.github.com/engineerchange.atom)
+- use ".atom" after github account to include as appropriate Feedly RSS feed (e.g., [https://github.com/engineerchange.atom](https://github.com/engineerchange.atom))
 - follow single repo commits by doing something like: [https://github.com/engineerchange/rss/commits/master.atom](https://github.com/engineerchange/rss/commits/master.atom)
 
 [Feed 43](https://feed43.com)
@@ -41,17 +41,17 @@ Github
 ### Data Viz Communities / Groups
 - eagereyes - [https://eagereyes.org/feed](https://eagereyes.org/feed)
 - Information Is Beautiful - [https://feeds.feedburner.com/InformationIsBeautiful](https://feeds.feedburner.com/InformationIsBeautiful)
-- r/dataisbeautiful - [https://www.reddit.com/r/dataisbeautiful.rss](https://www.reddit.com/r/dataisbeautiful.rss)
+- r/dataisbeautiful - [https://reddit.com/r/dataisbeautiful.rss](https://reddit.com/r/dataisbeautiful.rss)
 
 ### Individuals
 - Flowing Data - [https://feeds.feedburner.com/FlowingData](https://feeds.feedburner.com/FlowingData)
-- Storytelling With Data - [https://www.storytellingwithdata.com/feeds/posts/default](https://www.storytellingwithdata.com/feeds/posts/default)
+- Storytelling With Data - [https://storytellingwithdata.com/feeds/posts/default](https://storytellingwithdata.com/feeds/posts/default)
 
 ## Open Data
 Hard to find good ones for this, as some just have floods of information with no real substance (e.g., Socrata's Catalog - [https://opendata.socrata.com/catalog.rss](https://opendata.socrata.com/catalog.rss) includes a lot of "Dataset Created: Payroll Report - End Date 1/9/2019" type of posts).
 
 ### Data Communities and Individual Groups
-- r/datasets - [https://www.reddit.com/r/datasets.rss](https://www.reddit.com/r/datasets.rss)
+- r/datasets - [https://reddit.com/r/datasets.rss](https://reddit.com/r/datasets.rss)
 
 ### News Groups
 - Baltimore Sun Data Git - [https://github.com/baltimore-sun-data.atom](https://github.com/baltimore-sun-data.atom)
