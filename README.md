@@ -30,9 +30,9 @@ Github
 
 ### Individuals
 - Anders Drachen (Game Analytics) - [https://andersdrachen.com/feed](https://andersdrachen.com/feed)
+- Ben Wellington (I Quant NY) - [https://iquantny.tumblr.com/](https://iquantny.tumblr.com/)
 - Caitlin Hudon (Haystacks) - [https://caitlinhudon.com/feed](https://caitlinhudon.com/feed)
 - Catherine Ordun (Train Me, Test Me, Tease Me) - [https://tm3.ghost.io/rss](https://tm3.ghost.io/rss)
-- I Quant NY - [https://iquantny.tumblr.com/](https://iquantny.tumblr.com/)
 - John Mackintosh (HighlandR) - [https://johnmackintosh.com/feed.xml](https://johnmackintosh.com/feed.xml)
 - Julia Silge - [https://juliasilge.com/index.xml](https://juliasilge.com/index.xml)
 
@@ -47,8 +47,8 @@ Github
 - r/dataisbeautiful - [https://reddit.com/r/dataisbeautiful.rss](https://reddit.com/r/dataisbeautiful.rss)
 
 ### Individuals
-- Flowing Data - [https://feeds.feedburner.com/FlowingData](https://feeds.feedburner.com/FlowingData)
-- Storytelling With Data - [https://storytellingwithdata.com/feeds/posts/default](https://storytellingwithdata.com/feeds/posts/default)
+- Cole Nussbaumer Knaflic (Storytelling With Data) - [https://storytellingwithdata.com/feeds/posts/default](https://storytellingwithdata.com/feeds/posts/default)
+- Nathan Yau (Flowing Data) - [https://feeds.feedburner.com/FlowingData](https://feeds.feedburner.com/FlowingData)
 
 ## Open Data
 Hard to find good ones for this, as some just have floods of information with no real substance (e.g., Socrata's Catalog - [https://opendata.socrata.com/catalog.rss](https://opendata.socrata.com/catalog.rss) includes a lot of "Dataset Created: Payroll Report - End Date 1/9/2019" type of posts).
