@@ -21,13 +21,13 @@ Github
 ## Data Science
 
 ### Company Blogs
-- Kaggle > No Free Hunch - [https://blog.kaggle.com/feed/](https://blog.kaggle.com/feed/)
+- Kaggle > No Free Hunch - [http://blog.kaggle.com/feed/](http://blog.kaggle.com/feed/)
 - RStudio Blog - [https://blog.rstudio.com/index.xml](https://blog.rstudio.com/index.xml)
 
 ### Individuals
 - Anders Drachen (Game Analytics) - [https://andersdrachen.com/feed](https://andersdrachen.com/feed)
 - Caitlin Hudon (Haystacks) - [https://caitlinhudon.com/feed](https://caitlinhudon.com/feed)
-- Catherine Ordun (Train Me, Test Me, Tease Me) - [tm3.ghost.io/rss](tm3.ghost.io/rss)
+- Catherine Ordun (Train Me, Test Me, Tease Me) - [https://tm3.ghost.io/rss](https://tm3.ghost.io/rss)
 - I Quant NY - [https://iquantny.tumblr.com/](https://iquantny.tumblr.com/)
 - John Mackintosh (HighlandR) - [https://johnmackintosh.com/feed.xml](https://johnmackintosh.com/feed.xml)
 - Julia Silge - [https://juliasilge.com/index.xml](https://juliasilge.com/index.xml)
@@ -43,18 +43,17 @@ Github
 - r/dataisbeautiful - [https://www.reddit.com/r/dataisbeautiful.rss](https://www.reddit.com/r/dataisbeautiful.rss)
 
 ### Individuals
-- Flowing Data - [feeds.feedburner.com/FlowingData](feeds.feedburner.com/FlowingData)
+- Flowing Data - [https://feeds.feedburner.com/FlowingData](https://feeds.feedburner.com/FlowingData)
 - Storytelling With Data - [https://www.storytellingwithdata.com/feeds/posts/default](https://www.storytellingwithdata.com/feeds/posts/default)
 
 ## Open Data
-Hard to find good ones for this, as some just have floods of information with no real substance (e.g., Socrata's Catalog - [opendata.socrata.com/catalog.rss](opendata.socrata.com/catalog.rss) includes a lot of "Dataset Created: Payroll Report - End Date 1/9/2019" type of posts).
+Hard to find good ones for this, as some just have floods of information with no real substance (e.g., Socrata's Catalog - [https://opendata.socrata.com/catalog.rss](https://opendata.socrata.com/catalog.rss) includes a lot of "Dataset Created: Payroll Report - End Date 1/9/2019" type of posts).
 
 ### Data Communities and Individual Groups
 - r/datasets - [https://www.reddit.com/r/datasets.rss](https://www.reddit.com/r/datasets.rss)
 
 ### News Groups
 - Baltimore Sun Data Git - [https://github.com/baltimore-sun-data.atom](https://github.com/baltimore-sun-data.atom)
-- Buzzfeed News Git - [https://github.com/fivethirtyeight/data/commits/master.atom](https://github.com/fivethirtyeight/data/commits/master.atom)
 - FiveThirtyEight Git - [https://github.com/fivethirtyeight/data/commits/master.atom](https://github.com/fivethirtyeight/data/commits/master.atom)
 - LA Times Data Desk Git - [https://github.com/datadesk.atom](https://github.com/datadesk.atom)
 - Sunlight Foundation Git - [https://github.com/sunlightpolicy.atom](https://github.com/sunlightpolicy.atom)
