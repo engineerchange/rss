@@ -8,6 +8,7 @@ recommended rss feeds and some tips/tricks
 # Tips and Tricks
 Github
 - use ".atom" after github account to include as appropriate Feedly RSS feed (e.g., https://www.github.com/engineerchange.atom)
+- follow single repo commits by doing something like: [https://github.com/engineerchange/rss/commits/master.atom](https://github.com/engineerchange/rss/commits/master.atom)
 
 [Feed 43](https://feed43.com)
 - use for websites that don't have clear RSS
