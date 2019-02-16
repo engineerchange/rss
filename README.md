@@ -6,9 +6,13 @@ recommended rss feeds and some tips/tricks
 - Use [Palabre (Android)](https://play.google.com/store/apps/details?id=com.levelup.palabre) to read RSS on the go (after the demise of [Flyne](https://twitter.com/flyneapp)).
 
 # Tips and Tricks
-Github
+## `Github`
 - use ".atom" after github account to include as appropriate Feedly RSS feed (e.g., [https://github.com/engineerchange.atom](https://github.com/engineerchange.atom))
 - follow single repo commits by doing something like: [https://github.com/engineerchange/rss/commits/master.atom](https://github.com/engineerchange/rss/commits/master.atom)
+
+## `Reddit`
+- use .rss after github subreddit or filter to save as RSS feed (e.g., https://www.reddit.com/r/askscience/.rss or https://www.reddit.com/r/askscience/top/.rss)
+- you can group subreddits to for a single RSS feed (e.g., https://www.reddit.com/r/askscience+science/.rss)
 
 [Google Alerts](https://www.google.com/alerts)
 - Google Alerts allow you to export as a digest to your e-mail or as an RSS feed.
