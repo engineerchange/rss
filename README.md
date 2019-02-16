@@ -14,13 +14,15 @@ recommended rss feeds and some tips/tricks
 - use .rss after github subreddit or filter to save as RSS feed (e.g., https://www.reddit.com/r/askscience/.rss or https://www.reddit.com/r/askscience/top/.rss)
 - you can group subreddits to for a single RSS feed (e.g., https://www.reddit.com/r/askscience+science/.rss)
 
-[Google Alerts](https://www.google.com/alerts)
+---
+
+## `[Google Alerts](https://www.google.com/alerts)`
 - Google Alerts allow you to export as a digest to your e-mail or as an RSS feed.
 
-[Feed 43](https://feed43.com)
+## `[Feed 43](https://feed43.com)`
 - use for websites that don't have clear RSS
 
-[TwitRSS.me](https://twitrss.me)
+## `[TwitRSS.me](https://twitrss.me)`
 - use for RSS of twitter user or twitter topics
 
 # Top RSS Followings
