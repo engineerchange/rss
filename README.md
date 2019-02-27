@@ -69,5 +69,5 @@ Hard to find good ones for this, as some just have floods of information with no
 - Sunlight Foundation Git - [https://github.com/sunlightpolicy.atom](https://github.com/sunlightpolicy.atom)
 
 # Broken RSS Feeds
-- [ProPublica/Nerds](https://www.propublica.org/nerds) - [https://feeds.propublica.org/propublica/nerds](https://feeds.propublica.org/propublica/nerds) - query out to ProPublica to fix on 1/23/2019. Asked via twitter on 2/25/2019.
-- [ProPublica/NewsApps](https://www.propublica.org/newsapps/) - [https://feeds.propublica.org/propublica/tools-data](https://feeds.propublica.org/propublica/tools-data) - query out to ProPublica to fix on 1/23/2019. Asked via twitter on 2/25/2019.
+- [ProPublica/Nerds](https://www.propublica.org/nerds) - [https://feeds.propublica.org/propublica/nerds](https://feeds.propublica.org/propublica/nerds) - query out to ProPublica to fix on 1/23/2019. Asked via twitter on 2/25/2019. E-mailed IT manager on 2/27/2019.
+- [ProPublica/NewsApps](https://www.propublica.org/newsapps/) - [https://feeds.propublica.org/propublica/tools-data](https://feeds.propublica.org/propublica/tools-data) - query out to ProPublica to fix on 1/23/2019. Asked via twitter on 2/25/2019. E-mailed IT manager on 2/27/2019.
