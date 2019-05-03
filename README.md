@@ -21,6 +21,7 @@ recommended rss feeds and some tips/tricks
 
 ## [Feed 43](https://feed43.com)
 - use for websites that don't have clear RSS
+- example of usage - [link](https://www.reddit.com/r/rss/comments/a7k3dk/how_can_i_convert_imdb_watchlists_or_raitings/edfv8kt/)
 
 ## [TwitRSS.me](https://twitrss.me)
 - use for RSS of twitter user or twitter topics
