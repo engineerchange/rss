@@ -14,6 +14,10 @@ recommended rss feeds and some tips/tricks
 - use .rss after subreddit or filter to save as RSS feed (e.g., https://www.reddit.com/r/askscience/.rss or https://www.reddit.com/r/askscience/top/.rss)
 - you can group subreddits into a single RSS feed (e.g., https://www.reddit.com/r/askscience+science/.rss)
 
+## Other notes
+- Check page source for "rss"
+- add /feed/ before url for Medium. So https://medium.com/@melindagates becomes https://medium.com/feed/@melindagates
+
 ---
 
 ## [Google Alerts](https://www.google.com/alerts)
