@@ -1,5 +1,7 @@
 # rss
-recommended rss feeds and some tips/tricks
+recommended rss feeds and some tips/tricks. 
+
+Pull requests and general comments are very welcome!
 
 # Overview
 - Use [Feedly](https://feedly.com) for adding and managing RSS feeds (after the demise of [Google Reader](http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html)).
