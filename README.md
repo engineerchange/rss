@@ -22,6 +22,11 @@ Pull requests and general comments are very welcome!
 
 ---
 
+# Tools
+
+## [RSS Subscription Extension (by Google)](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd/related?hl=en-US)
+- A Chrome extension allowing you to quickly add a page to your RSS service of choice (e.g., Feedly).
+
 ## [Google Alerts](https://www.google.com/alerts)
 - Google Alerts allow you to export as a digest to your e-mail or as an RSS feed.
 
