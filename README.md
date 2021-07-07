@@ -19,6 +19,7 @@ Pull requests and general comments are very welcome!
 ## Other notes
 - Check page source for "rss"
 - add /feed/ before url for Medium. So https://medium.com/@melindagates becomes https://medium.com/feed/@melindagates
+- Some websites have a /index.html in the baseurl to allow RSS readers to find it.
 
 ---
 
